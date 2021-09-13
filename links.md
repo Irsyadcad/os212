@@ -2,5 +2,5 @@
 permalink: /LINKS/
 ---
 # LINKS
-1. (https://os.vlsm.org/) <br>
+1. [OS](https://os.vlsm.org/) <br>
 Web yang berisi macam-macam materi dan informasi mata kuliah Operasi Sistem
