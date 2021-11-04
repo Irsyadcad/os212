@@ -22,3 +22,13 @@ W3Schools is a freemium educational website for learning coding online. Develope
 
 7. [BootStrap](https://getbootstrap.com/docs/3.4/) <br>
 Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+
+8. [JAVA 'Linked List'](https://www.geeksforgeeks.org/linked-list-in-java) <br>
+JAVA introduction about implementing Linked List.
+
+9. [Runtume Complexity](https://gist.github.com/psayre23/c30a821239f4818b0709) <br>
+The Big O performance of common functions of different Java Collections.
+
+10. [GIT Playlist](https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf) <br>
+A collection of videos explaining about GIT.
+
