@@ -38,16 +38,23 @@ ZCZC W05 10 L04 GitHub Pages related
 ZCZC W06 40 L05 Quiz related
 ZCZC W06 20 L22 Quiz
 ZCZC W06 80 L02 ZOOM meetings related
-ZCZC W06 240 L15 Assignment #06
+ZCZC W06 240 L16 Assignment #06
 ZCZC W06 120 L01 SCELE/Discord related
 ZCZC W06 60 L03 Github related
 ZCZC W06 10 L04 GitHub Pages related
 ZCZC W07 40 L05 Quiz related
 ZCZC W07 20 L22 Quiz
 ZCZC W07 80 L02 ZOOM meetings related
-ZCZC W07 240 L15 Assignment #07
+ZCZC W07 240 L17 Assignment #07
 ZCZC W07 120 L01 SCELE/Discord related
 ZCZC W07 60 L03 Github related
 ZCZC W07 10 L04 GitHub Pages related
 ZCCZ W07 160 L73 Playing VALORANT GAME HORROR
 ZCZC W07 200 L82 Reading book related to MPPI
+ZCZC W08 40 L05 Quiz related
+ZCZC W08 20 L22 Quiz
+ZCZC W08 80 L02 ZOOM meetings related
+ZCZC W08 300 L18 Assignment #08
+ZCZC W08 120 L01 SCELE/Discord related
+ZCZC W08 60 L03 Github related
+ZCZC W08 10 L04 GitHub Pages related
