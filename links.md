@@ -32,3 +32,6 @@ The Big O performance of common functions of different Java Collections.
 10. [GIT Playlist](https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf) <br>
 A collection of videos explaining about GIT.
 
+11. [Flutter](https://flutter.dev) <br>
+Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.
+
