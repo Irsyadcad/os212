@@ -35,3 +35,5 @@ A collection of videos explaining about GIT.
 11. [Flutter](https://flutter.dev) <br>
 Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.
 
+12. [Why should we learn Linux from scratch?](https://www.youtube.com/watch?v=e6pTM0sOJl4) <br>
+This video explain what can we get from learning Linux from scratch.
