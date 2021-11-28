@@ -65,3 +65,9 @@ ZCZC W09 300 L18 Assignment #09
 ZCZC W09 120 L01 SCELE/Discord related
 ZCZC W09 60 L03 Github related
 ZCZC W09 10 L04 GitHub Pages related
+ZCZC W10 40 L05 Quiz related
+ZCZC W10 20 L22 Quiz
+ZCZC W10 300 L18 Assignment #10
+ZCZC W10 120 L01 SCELE/Discord related
+ZCZC W10 60 L03 Github related
+ZCZC W10 10 L04 GitHub Pages related
